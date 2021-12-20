@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+  background-color: midnightblue;
+}
+
+.Header {
+  color: orange;
+  text-decoration: underline double orange;
+  padding: 10px 5px 5px 5px;
+}
+
+.PetList {
+  color: rgb(59, 191, 252);
+  font-family: cursive;
+  font-size: 1.5em;
+  margin: 20px 5px 5px 5px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.page {
+  color: springgreen;
+  background-color: rgb(31, 15, 90);
+
+}
+
+.boxes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.text {
+  margin: 10px;
+}
+
+/* Images */
+
+.catImg, .dogImg {
+  height: 300px;
+  margin: 15px;
+}
